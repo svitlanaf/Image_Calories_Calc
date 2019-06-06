@@ -12,7 +12,6 @@ function processPhoto(url) {
     clarifai.readFoods(url)
     .then(function(response){
         let mainFood = clarifai.parseFoods(response);
-        // output.push(mainFood[0]);
         output.push(mainFood);
         return foodService.getCalories(mainFood[0]);
     })
