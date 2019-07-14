@@ -1,6 +1,6 @@
 # _Image Calories Calculator_
 
-#### _Image Calories Calculator is a web application that allows user to count calories by image they upload. Simply find an image, copy it's address, paste in the input field and press the "Cpunt Cals" button. This app uses an API that recognizes food by picture, but it's not 100% accurate. So, if a food name is not correctly recognized select it from the drop down menu below the image._
+#### _Image Calories Calculator is a web application that allows user to count calories by image they upload. Simply find an image, copy it's address, paste in the input field and press the "Count Cals" button. This app uses an API that recognizes food by picture, but it's not a 100% accurate. So, if a food name is not correctly recognized select it from the drop down menu below the image._
 
 #### By _**Zach Weintraub and Svitlana Filatova**_
 
